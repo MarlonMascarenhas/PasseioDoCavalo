@@ -8,7 +8,7 @@ O intuito deste projeto é ajudar outras pessoas que pretendem fazer o mesmo tra
 
 Para Executar o programa você deve seguir os passos: 
 
-Instalação do NetBeans 
+# Instalação dos Programas necessários
 
 Entre no site: https://netbeans.org/downloads/8.0.1/?pagelang=pt_BR e baixe a versão completa. Siga os passos de instalação do próprio netbeans. 
 
@@ -16,7 +16,7 @@ Entre no site: https://sourceforge.net/projects/tdm-gcc/ e baixe o programa e in
 
 Entre no site: https://www.rstudio.com/products/rstudio/download/ e baixe a versão free e siga as instruções de instalação do app. 
 
-
+# Como Executar
 
 Para gerar todos os possíveis movimentos do cavalo rode o arquivo geradorMovimentos. 
 
