@@ -40,7 +40,7 @@ No editor de texto do Rstudio use CTRL + A e clique em RUN.
 
 Para melhorar a qualidade dos resultados altere os dados TAMPOPULACAO, NUMGERACOES e pmutation (você pode mudar esses valores o quanto quiser). 
 
-Após executar o arquivo GA-Passeio-Do-Cavalo, a sua IA terá criado uma linha no arquivo CaminhoCavalo.txt (que já contem alguns testes feitos por mim, se quiser apagar todos os testes você pode MAS O ARQUIVO DEVE COMEÇAR COM "d ") 
+Após executar o arquivo GA-Passeio-Do-Cavalo, a sua IA terá criado uma linha no arquivo CaminhoCavalo.txt (que já contem alguns testes feitos por mim, se quiser apagar todos os testes você pode MAS O ARQUIVO DEVE COMEÇAR COM "d "(d espaço)) 
 
 Apos rodar seus testes em R 
 Pegue os arquivos CaminhoCavalo, MatrizCavalo e matrizFinalCavalo e jogue dentro da pasta GeradorCaminhoTab. 
