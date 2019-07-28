@@ -20,7 +20,7 @@ void main()
   fscanf(arq, "%c %c %d %d \n", &a, &b, &posi1, &posi2);
 
   tam = posi1;
-
+  
   int matriz[64][64]; 
   for (i = 0; i < 64; i++) {
     for (j = 0; j < 64; j++) {
